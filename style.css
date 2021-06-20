@@ -1,0 +1,11 @@
+body 
+{
+  background-color:#cccccc; background-image:url("https://i.postimg.cc/KzWwHPcq/racing.gif");
+}
+#myCanvas
+{
+background-color:#cccccc;
+background-image:url("https://i.postimg.cc/bv5d35nK/racing.jpg")
+}
+h1 {color:aliceblue; font-family:cursive;}
+h4{color:aliceblue; font-family:cursive;}
